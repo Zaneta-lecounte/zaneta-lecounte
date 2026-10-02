@@ -8,20 +8,13 @@ I've spent my career in B2B SaaS and B2B training, owning CRO and experimentatio
 
 ---
 
-## 🧭 How I think about growth
-
-```mermaid
-flowchart LR
-    A[Signal] --> B[Diagnosis]
-    B --> C[Hypothesis]
-    C --> D[Experiment]
-    D --> E[Decision]
-    E -.learnings.-> A
-```
-
----
-
 ## 🧠 Featured: [Growth Intelligence Operating System (GIOS)](https://github.com/Zaneta-lecounte/growth-intelligence-os) 🚧
+
+<!-- When Phase 1 ships, uncomment and add links:
+**[▶ Live demo](STREAMLIT_URL)** · **[View code](https://github.com/Zaneta-lecounte/growth-intelligence-os)**
+
+![GIOS screenshot](SCREENSHOT_URL)
+-->
 
 A modular system that turns fragmented growth signals (customer research, behavioral analytics, funnel performance, and experiment results) into diagnosed problems, validated hypotheses, prioritized roadmaps, and reusable learning.
 
@@ -54,6 +47,14 @@ A modular system that turns fragmented growth signals (customer research, behavi
 
 ---
 
+## 🧭 How I think about growth
+
+**Signal → Diagnosis → Hypothesis → Experiment → Decision ↺**
+
+Every decision feeds learning back into the next signal. Each GIOS module is one step of that loop, turned into a tool.
+
+---
+
 ## 📈 What I bring from the field
 
 - Built and run a multi-channel CRO and experimentation program end to end: hypothesis, test design, QA, analysis, rollout
@@ -64,12 +65,7 @@ A modular system that turns fragmented growth signals (customer research, behavi
 
 ## 🎯 Areas I Work In
 
-| | | |
-|---|---|---|
-| Conversion Rate Optimization | Growth Strategy | Experimentation Programs |
-| Funnel Diagnostics | Customer Research / Voice of Customer | Behavioral Analytics |
-| Landing Page Optimization | Lifecycle & Journey Optimization | Growth Intelligence |
-| AI-Enabled Growth Workflows | Full-Funnel Measurement | Cross-Functional Growth Operations |
+Conversion Rate Optimization · Growth Strategy · Experimentation Programs · Funnel Diagnostics · Customer Research / Voice of Customer · Behavioral Analytics · Landing Page Optimization · Lifecycle & Journey Optimization · Growth Intelligence · AI-Enabled Growth Workflows · Full-Funnel Measurement · Cross-Functional Growth Operations
 
 ---
 
