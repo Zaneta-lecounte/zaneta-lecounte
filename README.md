@@ -62,24 +62,58 @@ A modular system that turns fragmented growth signals (customer research, behavi
 
 ---
 
-## 🧰 Tech
+## 🎯 Areas I Work In
 
-**Analytics & experimentation**
+| | | |
+|---|---|---|
+| Conversion Rate Optimization | Growth Strategy | Experimentation Programs |
+| Funnel Diagnostics | Customer Research / Voice of Customer | Behavioral Analytics |
+| Landing Page Optimization | Lifecycle & Journey Optimization | Growth Intelligence |
+| AI-Enabled Growth Workflows | Full-Funnel Measurement | Cross-Functional Growth Operations |
+
+---
+
+## 🧰 Tools & Technologies
+
+**Experimentation & Web**
+
+![VWO](https://img.shields.io/badge/VWO-A%2FB_Testing-5C2D91?style=flat)
+![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat&logo=optimizely&logoColor=white)
+![Convert](https://img.shields.io/badge/Convert-2D6CDF?style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Analytics & Data**
+
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
-![VWO](https://img.shields.io/badge/VWO-A/B_Testing-5C2D91?style=flat)
-
-**Engineering**
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat&logo=hotjar&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**AI**
+**Growth & Martech**
+
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat)
+![Demandbase](https://img.shields.io/badge/Demandbase-1B3C6E?style=flat)
+![Qualified](https://img.shields.io/badge/Qualified-2E6BF0?style=flat)
+
+**AI & Automation**
+
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E40C9?style=flat)
+![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-6E40C9?style=flat)
+![Prompt Systems](https://img.shields.io/badge/Prompt_Systems-6E40C9?style=flat)
+![Experimentation Workflows](https://img.shields.io/badge/Experimentation_Workflows-6E40C9?style=flat)
 
 ---
 
