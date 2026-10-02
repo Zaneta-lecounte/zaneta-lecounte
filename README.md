@@ -19,20 +19,36 @@ flowchart LR
     E -.learnings.-> A
 ```
 
-Every project below is one piece of that loop, turned into a tool.
+---
+
+## 🧠 Featured: [Growth Intelligence Operating System (GIOS)](https://github.com/Zaneta-lecounte/growth-intelligence-os) 🚧
+
+A modular system that turns fragmented growth signals (customer research, behavioral analytics, funnel performance, and experiment results) into diagnosed problems, validated hypotheses, prioritized roadmaps, and reusable learning.
+
+**Design principles:** deterministic math, evidence-linked AI claims, and scores that support judgment rather than replace it.
+
+| Layer | Module | What it does |
+|---|---|---|
+| **Signal** | Customer Signal Synthesizer | Structures qualitative evidence into themes scored by frequency, severity, and commercial relevance |
+| | Behavioral Friction Analyzer | Detects behavioral anomalies and classifies friction without claiming false causality |
+| | Qualified Demand Leakage Auditor | Finds where qualified demand is lost between acquisition and revenue, and sizes the opportunity |
+| **Diagnosis** | Growth Intelligence Diagnostic | Combines signal types into root-cause hypotheses, separating observed, inferred, and unknown |
+| | Hypothesis Evidence Validator | Keeps assumption-led experiments off the roadmap with a 12-point evidence rubric |
+| **Prioritization** | Experiment Opportunity Scorer | Ranks opportunities with the GROWTH framework, plus risk and sample-size flags |
+| | Growth Priority Orchestrator | Builds a balanced Now / Next / Later roadmap across fixes, optimizations, bets, and research |
+| **Learning** | Downstream Impact Analyzer | Tests whether wins hold through MQL, SQL, opportunity, and revenue, not just top-funnel CVR |
+| | Experiment Learning Capture | Turns every result, including losses, into a searchable experiment library |
+| | Growth Council Insight Brief | Converts signals into cross-functional decisions, owners, and a Slack-ready summary |
+
+`Python` · `Streamlit` · `Pydantic` · `SciPy` · `Claude API` · `SQLite`
 
 ---
 
-## 🛠️ Portfolio
+## 🧪 Also building
 
-| Project | What it does | Proves | Stack | Status |
-|---|---|---|---|---|
-| [**Growth Intelligence System**](https://github.com/Zaneta-lecounte/growth-intelligence-system) | Triangulates customer, behavioral, business, and experiment signals into ranked growth opportunities | Systems thinking, signal synthesis | Python · Streamlit · Pandas | 🚧 In progress |
-| [**A/B Test Analyzer**](https://github.com/Zaneta-lecounte/ab-test-analyzer) | Significance, confidence intervals, and segment-level analysis for A/B tests | Statistics, experiment interpretation | Python · Streamlit · SciPy | 🚧 In progress |
-| [**Funnel Friction Analyzer**](https://github.com/Zaneta-lecounte/funnel-friction-analyzer) | Finds funnel leakage and sizes each opportunity in downstream customers and revenue | Funnel analytics, opportunity sizing | Python · Streamlit · Plotly | 🚧 In progress |
-| [**CRO Experimentation Toolkit**](https://github.com/Zaneta-lecounte/cro-experimentation-toolkit) | Sample size, SRM checks, prioritization, hypothesis briefs, and retest decisions | Experimentation program design | Python · Streamlit | 🚧 In progress |
-| [**Growth Experiment Lab**](https://github.com/Zaneta-lecounte/growth-experiment-lab) | Landing page with deterministic assignment, feature flags, exposure tracking, and a GA4-style dataLayer adapter | Front-end engineering, experiment infrastructure | React · TypeScript · Vite · Vitest | 📋 Planned |
-| [**AI Growth Diagnostician**](https://github.com/Zaneta-lecounte/ai-growth-diagnostician) | Multi-step LLM agent that diagnoses conversion friction and designs a validated experiment | AI + growth methodology, evals | Python · Claude API · Pydantic | 🚧 In progress |
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**Growth Experiment Lab**](https://github.com/Zaneta-lecounte/growth-experiment-lab) | Landing page with deterministic assignment, feature flags, exposure tracking, and a GA4-style dataLayer adapter | React · TypeScript · Vite · Vitest | 📋 Planned |
 
 <sub>📋 Planned · 🚧 In progress · ✅ Live demo available</sub>
 
@@ -69,7 +85,7 @@ Every project below is one piece of that loop, turned into a tool.
 
 ## 🌱 Currently
 
-- **Building:** Growth Intelligence and experimentation tools using Python, Streamlit, React, and TypeScript, including funnel diagnostics, A/B test analysis, prioritization systems, and AI-assisted growth workflows
+- **Building:** GIOS, a growth intelligence and experimentation system using Python and Streamlit, plus experiment infrastructure in React and TypeScript, including funnel diagnostics, A/B test analysis, prioritization systems, and AI-assisted growth workflows
 - **Learning:** React + TypeScript patterns for experiment infrastructure
 - **Interested in:** Growth Engineering roles where experimentation, analytics, and product engineering overlap
 
